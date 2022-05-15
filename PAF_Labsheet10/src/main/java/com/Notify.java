@@ -25,7 +25,7 @@ public class Notify
 						return con; 
 			} 
 		
-		
+		//insert
 		public String insertNotify(String NotificationCode, String NotificationName, String NotificationDesc){ 
 			
 					String output = ""; 
